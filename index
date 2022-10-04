@@ -1,0 +1,19 @@
+Desenvolver um pequeno script CRUD. Em python ou javascript.
+Descrição do Projeto:
+Criar controle de estoque para atender a necessidade de uma pequena papelaria. Esse
+sistema deverá ter as seguintes funcionalidades: cadastrar produto, remover produto,
+atualizar produto, listar produtos, exibir detalhes de um produto. Os atributos
+necessários
+para cadastrar um produto são: código de barras, nome, descrição, quantidade e
+categoria.
+Script simples rodando no terminal, nao e necessario receber dados do telcado. Oque
+sera avaliando e se o script faz oque foi pedido.
+Extra: Subir o codigo no github.
+
+To Do
+- Create - ok
+- Read - ok
+- Update 
+- Delete - ok 
+- List  - ok 
+- Select - ok
